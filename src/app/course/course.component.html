@@ -1,0 +1,9 @@
+
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;" *ngFor="let course of courses">
+  <div class="card-header">{{course.courseName}}</div>
+  <div class="card-body">
+    <h4 class="card-title"><a [href]="'{{course.attachment}}'">JEE</a></h4>
+    <p class="card-text">cours de JEE.</p>
+  </div>
+</div>

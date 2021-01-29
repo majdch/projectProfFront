@@ -1,0 +1,15 @@
+{
+    "users":[
+        {
+            "studentId": 1,
+            "studentName": "majd",
+            "email": "majd5@gmail.com",
+            "subjects_name": "JEE",
+            "subjects_id": 1,
+            "created": "2021-01-29T04:46:54Z",
+            "enabled": true,
+            "unexpired": true,
+            "_admin": true
+        }
+    ]
+}
